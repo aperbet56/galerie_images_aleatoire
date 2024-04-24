@@ -11,7 +11,7 @@ Lien vers le projet : https://aperbet56.github.io/galerie_images_aleatoire/
 ## Développez avec
 
 - Utilisation des balises sémantiques HTML5
-- CSS
+- CSS3
 - Flexbox
 - Animation CSS au survol des images et du bouton
 - Page web responsive
